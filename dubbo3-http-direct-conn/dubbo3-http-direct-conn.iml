@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17">
-    <output url="file://$MODULE_DIR$/dubbo3-http-direct-conn/target/classes" />
-    <output-test url="file://$MODULE_DIR$/dubbo3-http-direct-conn/target/test-classes" />
-    <content url="file://$MODULE_DIR$/dubbo3-http-direct-conn">
-      <sourceFolder url="file://$MODULE_DIR$/dubbo3-http-direct-conn/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/dubbo3-http-direct-conn/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/dubbo3-http-direct-conn/src/test/java" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/dubbo3-http-direct-conn/target" />
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-web:2.6.3" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter:2.6.3" level="project" />
@@ -155,6 +152,6 @@
     <orderEntry type="library" name="Maven: io.netty:netty-resolver:4.1.92.Final" level="project" />
   </component>
   <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="78812cca-50f5-4a6e-b9a3-e76ddb72d34e" />
+    <option name="uniqueId" value="5f6583ca-df4f-41d5-bbe0-b5c064e11a67" />
   </component>
 </module>

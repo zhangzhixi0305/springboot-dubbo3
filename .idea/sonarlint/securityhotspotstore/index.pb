@@ -9,14 +9,8 @@ ddubbo3-rpc-zookeeper/dubbo-demo-annotation-consumer/src/main/java/com/zhixi/Con
 kdubbo3-rpc-zookeeper/dubbo-demo-annotation-consumer/src/main/java/com/zhixi/controller/DubboController.java,2\a\2a0e9605216b6dd0347521120ea2126bcc179c84
 N
 dubbo3-rpc-zookeeper/README.md,9\e\9eda82d68438ffc11a3ff0e779aae26c49dd46e1
-p
-@dubbo3-rpc-zookeeper/apache-zookeeper-3.5.9/README_packaging.txt,0\c\0c8a173c9570cf510cbab855e1ee01c4b4ff07ce
 e
 5dubbo3-rpc-zookeeper/apache-zookeeper-3.5.9/README.md,1\a\1af1e834523706d037646b5dffbb7b8302c1f422
-g
-7dubbo3-rpc-zookeeper/apache-zookeeper-3.5.9/LICENSE.txt,a\1\a14a3b9d7785827e7ed74e4d591baa0e311fb59c
-f
-6dubbo3-rpc-zookeeper/apache-zookeeper-3.5.9/NOTICE.txt,9\9\996d1d76d1169cfdb8474db7440996c0d3ced9ac
 O
 dubbo3-http-direct-conn/pom.xml,6\2\6295682053340db51edfcd4dbc7f9a89f8b8a460
 Q

@@ -9,8 +9,8 @@
         <module name="dubbo-demo-interface" />
         <module name="dubbo-http-interface" />
         <module name="dubbo-demo-annotation-provider" />
-        <module name="dubbo-demo-annotation-consumer" />
         <module name="dubbo-http-remote" />
+        <module name="dubbo-demo-annotation-consumer" />
         <module name="dubbo-http-api" />
       </profile>
     </annotationProcessing>

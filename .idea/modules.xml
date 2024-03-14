@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dubbo3-zookeeper/dubbo-demo-annotation-consumer/dubbo-demo-annotation-consumer.iml" filepath="$PROJECT_DIR$/dubbo3-zookeeper/dubbo-demo-annotation-consumer/dubbo-demo-annotation-consumer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dubbo3-zookeeper/dubbo-demo-annotation-provider/dubbo-demo-annotation-provider.iml" filepath="$PROJECT_DIR$/dubbo3-zookeeper/dubbo-demo-annotation-provider/dubbo-demo-annotation-provider.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dubbo3-zookeeper/dubbo-demo-interface/dubbo-demo-interface.iml" filepath="$PROJECT_DIR$/dubbo3-zookeeper/dubbo-demo-interface/dubbo-demo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo3-rpc-zookeeper/dubbo-demo-annotation-consumer/dubbo-demo-annotation-consumer.iml" filepath="$PROJECT_DIR$/dubbo3-rpc-zookeeper/dubbo-demo-annotation-consumer/dubbo-demo-annotation-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo3-rpc-zookeeper/dubbo-demo-annotation-provider/dubbo-demo-annotation-provider.iml" filepath="$PROJECT_DIR$/dubbo3-rpc-zookeeper/dubbo-demo-annotation-provider/dubbo-demo-annotation-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo3-rpc-zookeeper/dubbo-demo-interface/dubbo-demo-interface.iml" filepath="$PROJECT_DIR$/dubbo3-rpc-zookeeper/dubbo-demo-interface/dubbo-demo-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo3-http-direct-conn/dubbo-http-api/dubbo-http-api.iml" filepath="$PROJECT_DIR$/dubbo3-http-direct-conn/dubbo-http-api/dubbo-http-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo3-http-direct-conn/dubbo-http-interface/dubbo-http-interface.iml" filepath="$PROJECT_DIR$/dubbo3-http-direct-conn/dubbo-http-interface/dubbo-http-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/dubbo3-http-direct-conn/dubbo-http-remote/dubbo-http-remote.iml" filepath="$PROJECT_DIR$/dubbo3-http-direct-conn/dubbo-http-remote/dubbo-http-remote.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dubbo3-http-direct-conn.iml" filepath="$PROJECT_DIR$/dubbo3-http-direct-conn.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dubbo3-zookeeper/dubbo3-rpc-zookeeper.iml" filepath="$PROJECT_DIR$/dubbo3-zookeeper/dubbo3-rpc-zookeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo3-http-direct-conn/dubbo3-http-direct-conn.iml" filepath="$PROJECT_DIR$/dubbo3-http-direct-conn/dubbo3-http-direct-conn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo3-rpc-zookeeper/dubbo3-rpc-zookeeper.iml" filepath="$PROJECT_DIR$/dubbo3-rpc-zookeeper/dubbo3-rpc-zookeeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot-dubbo3.iml" filepath="$PROJECT_DIR$/.idea/springboot-dubbo3.iml" />
     </modules>
   </component>
