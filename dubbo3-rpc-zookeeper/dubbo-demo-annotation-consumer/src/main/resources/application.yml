@@ -1,0 +1,10 @@
+server:
+  port: 8082
+dubbo:
+  registry:
+    address: zookeeper://127.0.0.1:2181
+  application:
+    name: consumer
+    qos-enable: true # 是否开启QOS
+    qos-port: 33333 # QOS端口
+    qos-accept-foreign-ip: false # 是否允许QOS请求

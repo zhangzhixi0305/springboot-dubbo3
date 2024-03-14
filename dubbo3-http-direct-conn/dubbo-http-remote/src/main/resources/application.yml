@@ -1,0 +1,20 @@
+dubbo:
+  application:
+    name: dubbo-http-remote
+    qos-enable: false
+  registry:
+    address: N/A
+  protocol:
+    port: -1
+    name:
+  consumer:
+    check: false
+rfwm:
+  dubbo:
+    remote:
+      path: rest://localhost:8082/asc/api
+server:
+  port: 8083
+spring:
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.data.redis.RedisAutoConfiguration
