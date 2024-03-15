@@ -12,7 +12,7 @@ dubbo:
 rfwm:
   dubbo:
     remote:
-      path: rest://localhost:8082/asc/api
+      path: rest://localhost:8082/api
 server:
   port: 8083
 spring:

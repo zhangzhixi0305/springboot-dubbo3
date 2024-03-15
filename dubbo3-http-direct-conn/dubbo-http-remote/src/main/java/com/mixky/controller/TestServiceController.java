@@ -25,7 +25,7 @@ public class TestServiceController {
     /**
      * 对外访问接口：
      * 访问方式1：http://localhost:8083/testServiceController/sayHello
-     * 访问方式2：http://localhost:8082/asc/api/iTestService/sayHello
+     * 访问方式2：http://localhost:8082/api/iTestService/sayHello
      *
      * @return String
      */
@@ -37,7 +37,7 @@ public class TestServiceController {
     /**
      * 对外访问接口：
      * 访问方式1：http://localhost:8083/testServiceController/sayHelloMessage?message=zzx
-     * 访问方式2：http://localhost:8082/asc/api/iTestService/sayHelloMessage?message=zzx
+     * 访问方式2：http://localhost:8082/api/iTestService/sayHelloMessage?message=zzx
      *
      * @param message message
      * @return String
@@ -51,7 +51,7 @@ public class TestServiceController {
     /**
      * 对外访问接口：
      * 访问方式1：http://localhost:8083/testServiceController/getUserResult
-     * 访问方式2：http://localhost:8082/asc/api/iTestService/getUserResult
+     * 访问方式2：http://localhost:8082/api/iTestService/getUserResult
      *
      * @param user user
      * @return User

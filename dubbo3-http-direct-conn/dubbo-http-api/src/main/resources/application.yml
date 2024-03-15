@@ -6,7 +6,7 @@ dubbo:
   protocol:
     name: rest
     port: 8082
-    contextpath: /asc/api
+    contextpath: /api
     serialization: json # 默认情况下，Dubbo 3.x会使用JSON作为序列化方式，如果是其他版本可能需要明确指定
 server:
   port: 8081
